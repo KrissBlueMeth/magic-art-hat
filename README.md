@@ -23,6 +23,9 @@ En el desarrollo en equipo, mi responsabilidad principal fue la sección **“Co
 - Validación básica con atributos HTML (`required`, `type=email`, etc.).
 - Integración de la sección en el diseño general de la web.
 
+## Demo — Sección Contacto (scroll)
+
+![Demo scroll contacto](./assets/contacto-scroll.gif)
 ---
 
 ## 🛠️ Tecnologías utilizadas
