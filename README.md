@@ -25,7 +25,7 @@ En el desarrollo en equipo, mi responsabilidad principal fue la sección **“Co
 
 ## Demo — Sección Contacto (scroll)
 
-![Demo scroll contacto](./assets/imgs/contacto-scroll.gif)
+![Demo scroll contacto](/contacto-scroll.gif)
 ---
 
 ## 🛠️ Tecnologías utilizadas
